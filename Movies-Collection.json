@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Conjuring.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The-Conjuring.jpg",
         "movie_name": "The Conjuring",
         "movie_description": "Rod and Carolyn find their pet dog dead under mysterious circumstances and experience a spirit that harms their daughter Andrea. They finally call investigators who can help them get out of the mess.",
         "release_date": "02-08-2013",
@@ -10,7 +10,7 @@
     },
     {
         "id": "2",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Nun.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The-Nun.jpg",
         "movie_name": "The Nun",
         "movie_description": "A priest and a novice arrive in Romania to investigate the death of a young nun. However, things take an ugly turn after they encounter a supernatural force.",
         "release_date": "07-09-2018",
@@ -37,7 +37,7 @@
     },
     {
         "id": "5",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Ring.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The-Ring.jpg",
         "movie_name": "The Ring",
         "movie_description": "After a series of mysterious deaths, an investigative journalist must find the cause behind them before the same fate comes knocking on her door.",
         "release_date": "07-02-2002",
@@ -55,7 +55,7 @@
     },
     {
         "id": "7",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Dictator.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The-Dictator.jpg",
         "movie_name": "The Dictator",
         "movie_description": "Aladeen, a brutal dictator, travels to New York in order to address the United Nations Security Council. However, his plans go south when a hitman hired by his uncle, Tamir, kidnaps him.",
         "release_date": "16-05-2012",
@@ -64,7 +64,7 @@
     },
     {
         "id": "8",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/American%20Pie.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/American-Pie.jpg",
         "movie_name": "American Pie",
         "movie_description": "In a bid to end their misfortune with women, four friends, Jim, Oz, Finch and Kevin, try every trick in the book to ensure that they lose their virginity before prom night.",
         "release_date": "09-07-1999",
@@ -91,7 +91,7 @@
     },
     {
         "id": "11",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Girl%20With%20The%20Dragon%20Tattoo.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The-Girl-With-The-Dragon-Tattoo.jpg",
         "movie_name": "The Girl With The Dragon Tattoo",
         "movie_description": "A journalist is contacted by a retired industrialist to find his niece who has been presumed dead for over 40 years. A female hacker joins the journalist in a hunt that unravels dark mysteries.",
         "release_date": "27-02-2009",
@@ -100,7 +100,7 @@
     },
     {
         "id": "12",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Knives%20Out.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Knives-Out.jpg",
         "movie_name": "Knives Out",
         "movie_description": "Harlan Thrombey, a reputable crime novelist, is found dead after his 85th birthday celebrations. However, as detective Benoit Blanc investigates the case, it unravels a ploy of sinister intentions.",
         "release_date": "27-11-2019",
@@ -127,7 +127,7 @@
     },
     {
         "id": "15",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Escape%20Room.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Escape-Room.jpg",
         "movie_name": "Escape Room",
         "movie_description": "Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.",
         "release_date": "04-01-2019",
@@ -154,7 +154,7 @@
     },
     {
         "id": "18",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Resident%20Evil.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Resident-Evil.jpg",
         "movie_name": "Resident Evil",
         "movie_description": "A special team of commandos are entrusted with the responsibility of shutting down a genetics laboratory after it is affected by a virus breakout and its employees are turned into zombies.",
         "release_date": "12-03-2002",
@@ -190,7 +190,7 @@
     },
     {
         "id": "22",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Pride%20&%20Prejudice.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Pride-&-Prejudice.jpg",
         "movie_name": "Pride & Prejudice",
         "movie_description": "Elizabeth Bennett is a strong-willed yet sensible young woman. At a local ball, she encounters a wealthy young man, Mr Fitzwilliam Darcy, who is arrogant, and they develop an unusual relationship.",
         "release_date": "16-09-2005",
@@ -199,7 +199,7 @@
     },
     {
         "id": "23",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Romeo%20+%20Juliet.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Romeo-+-Juliet.jpg",
         "movie_name": "Romeo + Juliet",
         "movie_description": "The rivalry between Verona's two well-established families, the Capulets and the Montagues, affects the relationship of their children Romeo and Juliet.",
         "release_date": "27-10-1996",
@@ -208,7 +208,7 @@
     },
     {
         "id": "24",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Friends%20With%20Benefits.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Friends-With-Benefits.jpg",
         "movie_name": "Friends With Benefits",
         "movie_description": "Jamie, a New York-based headhunter, gets Dylan to take a job at GQ. They soon become friends but things get complicated after the individually jaded lovers add sex to their relationship.",
         "release_date": "09-09-2011",
@@ -217,7 +217,7 @@
     },
     {
         "id": "25",
-        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/No%20Strings%20Attached.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/No-Strings-Attached.jpg",
         "movie_name": "No Strings Attached",
         "movie_description": "After a break-up, Adam is looking for a casual relationship when he runs into Emma. They agree to maintain a strictly physical association, but things get complicated when they both fall in love.",
         "release_date": "11-02-2011",
