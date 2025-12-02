@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "movie_image": "Images/The Conjuring.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Conjuring.jpg",
         "movie_name": "The Conjuring",
         "movie_description": "Rod and Carolyn find their pet dog dead under mysterious circumstances and experience a spirit that harms their daughter Andrea. They finally call investigators who can help them get out of the mess.",
         "release_date": "02-08-2013",
@@ -10,7 +10,7 @@
     },
     {
         "id": "2",
-        "movie_image": "Images/The Nun.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Nun.jpg",
         "movie_name": "The Nun",
         "movie_description": "A priest and a novice arrive in Romania to investigate the death of a young nun. However, things take an ugly turn after they encounter a supernatural force.",
         "release_date": "07-09-2018",
@@ -19,7 +19,7 @@
     },
     {
         "id": "3",
-        "movie_image": "Images/Insidious.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Insidious.jpg",
         "movie_name": "Insidious",
         "movie_description": "Josh and Renai move to a new house, seeking a fresh start. However, when their son, Dalton, mysteriously falls into a coma, paranormal events start occurring in the house.",
         "release_date": "01-04-2011",
@@ -28,7 +28,7 @@
     },
     {
         "id": "4",
-        "movie_image": "Images/It.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/It.jpg",
         "movie_name": "It",
         "movie_description": "Seven helpless and bullied children are forced to face their worst nightmares when Pennywise, a shape-shifting clown, reappears. The clown, an ancient evil torments children before feeding on them.",
         "release_date": "08-09-2017",
@@ -37,7 +37,7 @@
     },
     {
         "id": "5",
-        "movie_image": "Images/The Ring.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Ring.jpg",
         "movie_name": "The Ring",
         "movie_description": "After a series of mysterious deaths, an investigative journalist must find the cause behind them before the same fate comes knocking on her door.",
         "release_date": "07-02-2002",
@@ -46,7 +46,7 @@
     },
     {
         "id": "6",
-        "movie_image": "Images/Jumanji.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Jumanji.jpg",
         "movie_name": "Jumanji",
         "movie_description": "Two children come across a magical board game. While playing it, they meet Alan, a man who was trapped in the game, and attempt to free him while facing different kinds of danger.",
         "release_date": "05-12-1995",
@@ -55,16 +55,16 @@
     },
     {
         "id": "7",
-        "movie_image": "Images/The Dictator.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Dictator.jpg",
         "movie_name": "The Dictator",
         "movie_description": "Aladeen, a brutal dictator, travels to New York in order to address the United Nations Security Council. However, his plans go south when a hitman hired by his uncle, Tamir, kidnaps him.",
-        "release_date": "05-12-1995",
+        "release_date": "16-05-2012",
         "genre": "comedy",
         "imdb_rating": "7.1"
     },
     {
         "id": "8",
-        "movie_image": "Images/American Pie.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/American%20Pie.jpg",
         "movie_name": "American Pie",
         "movie_description": "In a bid to end their misfortune with women, four friends, Jim, Oz, Finch and Kevin, try every trick in the book to ensure that they lose their virginity before prom night.",
         "release_date": "09-07-1999",
@@ -73,7 +73,7 @@
     },
     {
         "id": "9",
-        "movie_image": "Images/Blockers.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Blockers.jpg",
         "movie_name": "Blockers",
         "movie_description": "Lisa, Mitchell and Hunter become good friends after seeing the friendship of their children. However, the parents try hard to stop their daughters from losing their virginity on prom night.",
         "release_date": "06-04-2018",
@@ -82,7 +82,7 @@
     },
     {
         "id": "10",
-        "movie_image": "Images/Junior.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Junior.jpg",
         "movie_name": "Junior",
         "movie_description": "After inventing a drug which minimizes the chances of miscarriage, Dr Alex and Dr Larry get upset when they don't get consent to test it on a subject. Dr Alex then decides to test the drug on himself.",
         "release_date": "23-11-1994",
@@ -91,7 +91,7 @@
     },
     {
         "id": "11",
-        "movie_image": "Images/The Girl With The Dragon Tattoo.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/The%20Girl%20With%20The%20Dragon%20Tattoo.jpg",
         "movie_name": "The Girl With The Dragon Tattoo",
         "movie_description": "A journalist is contacted by a retired industrialist to find his niece who has been presumed dead for over 40 years. A female hacker joins the journalist in a hunt that unravels dark mysteries.",
         "release_date": "27-02-2009",
@@ -100,7 +100,7 @@
     },
     {
         "id": "12",
-        "movie_image": "Images/Knives Out.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Knives%20Out.jpg",
         "movie_name": "Knives Out",
         "movie_description": "Harlan Thrombey, a reputable crime novelist, is found dead after his 85th birthday celebrations. However, as detective Benoit Blanc investigates the case, it unravels a ploy of sinister intentions.",
         "release_date": "27-11-2019",
@@ -109,7 +109,7 @@
     },
     {
         "id": "13",
-        "movie_image": "Images/Vivarium.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Vivarium.jpg",
         "movie_name": "Vivarium",
         "movie_description": "While looking for a house, Tom and Gemma get stuck in a maze of identical houses. As they try to figure out a way to escape, they receive a package containing a child and are asked to raise him.",
         "release_date": "18-05-2019",
@@ -118,7 +118,7 @@
     },
     {
         "id": "14",
-        "movie_image": "Images/Polaroid.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Polaroid.jpg",
         "movie_name": "Polaroid",
         "movie_description": "When a high school student finds a Polaroid camera, she discovers that there are dark secrets tied to it. Soon, she realises that people who take photographs with it are dying.",
         "release_date": "10-01-2019",
@@ -127,7 +127,7 @@
     },
     {
         "id": "15",
-        "movie_image": "Images/Escape Room.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Escape%20Room.jpg",
         "movie_name": "Escape Room",
         "movie_description": "Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.",
         "release_date": "04-01-2019",
@@ -136,7 +136,7 @@
     },
     {
         "id": "16",
-        "movie_image": "Images/Intersteller.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Intersteller.jpg",
         "movie_name": "Intersteller",
         "movie_description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
         "release_date": "07-11-2014",
@@ -145,7 +145,7 @@
     },
     {
         "id": "17",
-        "movie_image": "Images/2012.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/2012.jpg",
         "movie_name": "2012",
         "movie_description": "Jackson Curtis, a discontented writer, battles against all odds to keep his family secure when a series of apocalyptic calamities threaten to decimate humankind.",
         "release_date": "12-11-2009",
@@ -154,7 +154,7 @@
     },
     {
         "id": "18",
-        "movie_image": "Images/Resident Evil.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Resident%20Evil.jpg",
         "movie_name": "Resident Evil",
         "movie_description": "A special team of commandos are entrusted with the responsibility of shutting down a genetics laboratory after it is affected by a virus breakout and its employees are turned into zombies.",
         "release_date": "12-03-2002",
@@ -163,7 +163,7 @@
     },
     {
         "id": "19",
-        "movie_image": "Images/Underwater.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Underwater.jpg",
         "movie_name": "Underwater",
         "movie_description": "Norah and her team find themselves in a dangerous situation as they work at the bottom of the Mariana Trench and clash against an unidentified species.",
         "release_date": "10-01-2020",
@@ -172,7 +172,7 @@
     },
     {
         "id": "20",
-        "movie_image": "Images/Avatar.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Avatar.jpg",
         "movie_name": "Avatar",
         "movie_description": "Jake, a paraplegic marine, replaces his brother on the Na'vi-inhabited Pandora for a corporate mission. He is accepted by the natives as one of their own, but he must decide where his loyalties lie.",
         "release_date": "18-12-2009",
@@ -181,7 +181,7 @@
     },
     {
         "id": "21",
-        "movie_image": "Images/Titanic.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Titanic.jpg",
         "movie_name": "Titanic",
         "movie_description": "Rose, who is being forced to marry a wealthy man, falls in love with Jack, a talented artist, aboard the unsinkable Titanic. Unfortunately, the ship hits an iceberg, endangering their lives.",
         "release_date": "19-12-1997",
@@ -190,7 +190,7 @@
     },
     {
         "id": "22",
-        "movie_image": "Images/Pride & Prejudice.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Pride%20&%20Prejudice.jpg",
         "movie_name": "Pride & Prejudice",
         "movie_description": "Elizabeth Bennett is a strong-willed yet sensible young woman. At a local ball, she encounters a wealthy young man, Mr Fitzwilliam Darcy, who is arrogant, and they develop an unusual relationship.",
         "release_date": "16-09-2005",
@@ -199,7 +199,7 @@
     },
     {
         "id": "23",
-        "movie_image": "Images/Romeo + Juliet.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Romeo%20+%20Juliet.jpg",
         "movie_name": "Romeo + Juliet",
         "movie_description": "The rivalry between Verona's two well-established families, the Capulets and the Montagues, affects the relationship of their children Romeo and Juliet.",
         "release_date": "27-10-1996",
@@ -208,7 +208,7 @@
     },
     {
         "id": "24",
-        "movie_image": "Images/Friends With Benefits.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/Friends%20With%20Benefits.jpg",
         "movie_name": "Friends With Benefits",
         "movie_description": "Jamie, a New York-based headhunter, gets Dylan to take a job at GQ. They soon become friends but things get complicated after the individually jaded lovers add sex to their relationship.",
         "release_date": "09-09-2011",
@@ -217,7 +217,7 @@
     },
     {
         "id": "25",
-        "movie_image": "Images/No Strings Attached.jpg",
+        "movie_image": "https://hitarthpathak.github.io/Free-API/Images/No%20Strings%20Attached.jpg",
         "movie_name": "No Strings Attached",
         "movie_description": "After a break-up, Adam is looking for a casual relationship when he runs into Emma. They agree to maintain a strictly physical association, but things get complicated when they both fall in love.",
         "release_date": "11-02-2011",
