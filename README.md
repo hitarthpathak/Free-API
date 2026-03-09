@@ -9,7 +9,7 @@ A collection of completely **free, public JSON APIs**.
 |-------------------------|--------------------------------------------------------------------------------------------|-------|----------------------------------------------|
 | **E-Commerce Products** | https://hitarthpathak.github.io/Free-API/E-Commerce-Products.json                          | 36    | men · women · kids                           |
 | **Jokes**               | https://hitarthpathak.github.io/Free-API/Jokes.json                                        | 50    |                                              |
-| **Movies Collection**   | https://hitarthpathak.github.io/Free-API/Movies-Collection.json                            | 25    | horror · comedy · mystery · sci-fi · romance |
+| **Movies Collection**   | https://hitarthpathak.github.io/Free-API/Movies-Collection.json                            | 100    | horror · mystery · comedy · action · sci-fi · survival · slasher · romance · adventure · supernatural |
 
 
 ### How To Use :-
