@@ -1,15 +1,16 @@
 # Free-API By Hitarth Pathak
 
-A collection of completely **free, public JSON APIs**.
+A collection of completely **free, public, JSON APIs**.
 
 **No Authentication · No Rate Limits · No CORS · Forever Free**
 
 ### Available APIs :-
-| Name                    | Endpoint                                                                                   | Items | Categories / Genres                          |
+| Name                    | Endpoint                                                                                   | Items | Categories                                   |
 |-------------------------|--------------------------------------------------------------------------------------------|-------|----------------------------------------------|
 | **E-Commerce Products** | https://hitarthpathak.github.io/Free-API/E-Commerce-Products.json                          | 36    | men · women · kids                           |
 | **Jokes**               | https://hitarthpathak.github.io/Free-API/Jokes.json                                        | 50    |                                              |
 | **Movies Collection**   | https://hitarthpathak.github.io/Free-API/Movies-Collection.json                            | 100    | horror · mystery · comedy · action · sci-fi · survival · slasher · romance · adventure · supernatural |
+| **Users**               | https://hitarthpathak.github.io/Free-API/Users.json                                        | 100    |                                              |
 
 
 ### How To Use :-
@@ -51,6 +52,20 @@ A collection of completely **free, public JSON APIs**.
     OR
 
     axios.get('https://hitarthpathak.github.io/Free-API/Movies-Collection.json')
+      .then(res => console.log(res.data));
+
+  </html>
+
+**Users :**
+  <html>
+
+    fetch("https://hitarthpathak.github.io/Free-API/Users.json")
+      .then(res => res.json())
+      .then(data => console.log(data));
+
+    OR
+
+    axios.get('https://hitarthpathak.github.io/Free-API/Users.json')
       .then(res => console.log(res.data));
 
   </html>
