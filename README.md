@@ -9,8 +9,9 @@ A collection of completely **free, public, JSON APIs**.
 |-------------------------|--------------------------------------------------------------------------------------------|-------|----------------------------------------------|
 | **E-Commerce Products** | https://hitarthpathak.github.io/Free-API/E-Commerce-Products.json                          | 36    | men · women · kids                           |
 | **Jokes**               | https://hitarthpathak.github.io/Free-API/Jokes.json                                        | 50    |                                              |
-| **Movies Collection**   | https://hitarthpathak.github.io/Free-API/Movies-Collection.json                            | 100    | horror · mystery · comedy · action · sci-fi · survival · slasher · romance · adventure · supernatural |
-| **Users**               | https://hitarthpathak.github.io/Free-API/Users.json                                        | 100    |                                              |
+| **Movies Collection**   | https://hitarthpathak.github.io/Free-API/Movies-Collection.json                            | 100   | horror · mystery · comedy · action · sci-fi · survival · slasher · romance · adventure · supernatural |
+| **Users**               | https://hitarthpathak.github.io/Free-API/Users.json                                        | 100   |                                              |
+| **Job Posts**           | https://hitarthpathak.github.io/Free-API/Job-Posts.json                                    | 100   | software · marketing · finance · design · sales · operations · hr · engineering · data-science · cybersecurity |
 
 
 ### How To Use :-
@@ -66,6 +67,20 @@ A collection of completely **free, public, JSON APIs**.
     OR
 
     axios.get('https://hitarthpathak.github.io/Free-API/Users.json')
+      .then(res => console.log(res.data));
+
+  </html>
+
+**Job Posts :**
+  <html>
+
+    fetch("https://hitarthpathak.github.io/Free-API/Job-Posts.json")
+      .then(res => res.json())
+      .then(data => console.log(data));
+
+    OR
+
+    axios.get('https://hitarthpathak.github.io/Free-API/Job-Posts.json')
       .then(res => console.log(res.data));
 
   </html>
